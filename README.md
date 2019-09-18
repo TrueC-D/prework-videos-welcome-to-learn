@@ -10,8 +10,8 @@
 
 + Hey guys It's Ian from Flatiron school. In this video, we're going to take a look at Learn, Flatiron School's Learning Platform for our software engineering program.
 + So our learning goals for this video.
-+  We're doing describe the difference between a reading and a lab on learning
-+ We'll use the Ask-A-Question feature to get real time
++  We're doing describe the difference between a reading and a lab on Learn
++ We'll use the Ask-A-Question feature to get real time help
 + We'll also use the curriculum drop down to navigate the curriculum and learn
 + Also, just use learning to be able to consume curriculum in this course. So by the end of this video, you should be able to do all those things.
 + So as I mentioned, learn is Flatiron School's Platform for curriculum and community
