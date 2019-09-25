@@ -27,7 +27,7 @@
 + And I can see the output from the failing tests.
 + You can see an overview of all the curriculum and your current track using the track navigator here.
 + You can browse ahead if you'd like to see what's coming up, but we strongly recommend that you complete the curriculum in order. Each new lesson is going to build on lessons in the previous sections, and there will be some information that you're missing out on if you skip ahead.
-+ Remember that if you get stuck, that you're not alone. You can use our "Ask a Question" feature today real time support from another person.
++ Remember that if you get stuck, that you're not alone. You can use our "Ask a Question" feature to get real time help from another person.
 + Let's say that I have a question on this particular lab, I can click the "Ask a Question" button here, and type in my question into the chat.
 + Someone will respond as soon as they can and help walk me through the lab. They may ask some additional follow up questions via chat or ask me to jump onto a screen share with them to be able to work through the problem.
 + That's pretty much everything that you'll use on Learn for your course.
