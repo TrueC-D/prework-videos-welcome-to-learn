@@ -11,7 +11,7 @@
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/0mYO6QiVUCc?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Video Transcript:
+## Video Transcript
 
 Hi guys It's Ian from Flatiron school. In this video, we're going to take a look at Learn, Flatiron School's Learning Platform for our software engineering program. Our learning goals for this video are: we'll describe the difference between a README and a lab on Learn, we'll use the Ask-A-Question feature to get real time help, we'll use the curriculum drop down to navigate the curriculum, also, we'll use Learn to consume curriculum in this course. So, by the end of this video, you should be able to do all of those things.
 
